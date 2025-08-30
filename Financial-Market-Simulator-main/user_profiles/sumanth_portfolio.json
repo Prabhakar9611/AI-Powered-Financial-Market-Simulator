@@ -1,0 +1,30 @@
+{
+    "username": "sumanth",
+    "balance": 9040.933914214222,
+    "holdings": {
+        "AAPL": 1
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "AAPL",
+            "quantity": 1,
+            "price": 250.3183724967777,
+            "timestamp": "2024-12-07T20:25:53.895229"
+        },
+        {
+            "type": "buy",
+            "symbol": "AAPL",
+            "quantity": 1,
+            "price": 1346.5084203954484,
+            "timestamp": "2024-12-07T20:26:03.280854"
+        },
+        {
+            "type": "sell",
+            "symbol": "AAPL",
+            "quantity": 1,
+            "price": 637.7607071064477,
+            "timestamp": "2024-12-07T20:26:18.305144"
+        }
+    ]
+}

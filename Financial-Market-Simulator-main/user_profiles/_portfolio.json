@@ -1,0 +1,24 @@
+{
+    "username": "",
+    "balance": 7733.211819505874,
+    "holdings": {
+        "GOOGL": 5,
+        "TSLA": 5
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 5,
+            "price": 192.00996762738447,
+            "timestamp": "2024-12-07T13:24:15.639588"
+        },
+        {
+            "type": "buy",
+            "symbol": "TSLA",
+            "quantity": 5,
+            "price": 261.347668471441,
+            "timestamp": "2024-12-07T13:24:49.273531"
+        }
+    ]
+}

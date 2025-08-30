@@ -1,0 +1,21 @@
+{
+    "username": "vijaykumar",
+    "balance": 9349.728613720812,
+    "holdings": {},
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 6,
+            "price": 1125.772203149766,
+            "timestamp": "2024-12-07T22:55:12.205523"
+        },
+        {
+            "type": "sell",
+            "symbol": "GOOGL",
+            "quantity": 6,
+            "price": 1017.3936387699014,
+            "timestamp": "2024-12-07T22:55:13.847541"
+        }
+    ]
+}

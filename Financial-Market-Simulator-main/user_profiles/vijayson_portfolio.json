@@ -1,0 +1,21 @@
+{
+    "username": "vijayson",
+    "balance": 9621.83110677427,
+    "holdings": {},
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "TSLA",
+            "quantity": 1,
+            "price": 977.5393037716075,
+            "timestamp": "2024-12-07T20:28:29.392380"
+        },
+        {
+            "type": "sell",
+            "symbol": "TSLA",
+            "quantity": 1,
+            "price": 599.3704105458787,
+            "timestamp": "2024-12-07T20:29:09.907848"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "username": "vishwas",
+    "balance": 8179.995024919552,
+    "holdings": {
+        "GOOGL": 2
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 2,
+            "price": 446.751424814697,
+            "timestamp": "2024-12-07T17:12:25.101562"
+        },
+        {
+            "type": "sell",
+            "symbol": "GOOGL",
+            "quantity": 1,
+            "price": 112.64764220883868,
+            "timestamp": "2024-12-07T17:12:31.731865"
+        },
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 2,
+            "price": 701.7982780399458,
+            "timestamp": "2024-12-07T17:13:54.195030"
+        },
+        {
+            "type": "sell",
+            "symbol": "GOOGL",
+            "quantity": 1,
+            "price": 364.446788419999,
+            "timestamp": "2024-12-07T17:14:21.543378"
+        }
+    ]
+}

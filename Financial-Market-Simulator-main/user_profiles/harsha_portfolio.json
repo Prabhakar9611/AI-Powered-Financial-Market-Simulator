@@ -1,0 +1,16 @@
+{
+    "username": "harsha",
+    "balance": 6997.095776624695,
+    "holdings": {
+        "GOOGL": 5
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 5,
+            "price": 600.580844675061,
+            "timestamp": "2024-12-08T07:27:03.059517"
+        }
+    ]
+}

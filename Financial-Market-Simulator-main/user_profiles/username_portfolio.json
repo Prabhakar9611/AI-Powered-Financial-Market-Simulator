@@ -1,0 +1,45 @@
+{
+    "username": "username",
+    "balance": 9074.7783274847,
+    "holdings": {
+        "GOOGL": 2,
+        "MSFT": 1
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 3,
+            "price": 216.74989856661767,
+            "timestamp": "2024-12-07T16:50:36.333727"
+        },
+        {
+            "type": "sell",
+            "symbol": "GOOGL",
+            "quantity": 1,
+            "price": 675.2809439070255,
+            "timestamp": "2024-12-07T18:58:02.608698"
+        },
+        {
+            "type": "buy",
+            "symbol": "MSFT",
+            "quantity": 1,
+            "price": 667.3701190062314,
+            "timestamp": "2024-12-07T19:10:16.691773"
+        },
+        {
+            "type": "buy",
+            "symbol": "MSFT",
+            "quantity": 1,
+            "price": 1457.1180748858292,
+            "timestamp": "2024-12-07T19:10:19.384454"
+        },
+        {
+            "type": "sell",
+            "symbol": "MSFT",
+            "quantity": 1,
+            "price": 1174.2352731695885,
+            "timestamp": "2024-12-07T19:10:23.843724"
+        }
+    ]
+}

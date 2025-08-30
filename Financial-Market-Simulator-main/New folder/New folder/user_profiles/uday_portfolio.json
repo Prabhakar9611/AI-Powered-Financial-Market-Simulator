@@ -1,0 +1,51 @@
+{
+    "username": "uday",
+    "balance": 2148.7721850732287,
+    "holdings": {
+        "AMZN": 5
+    },
+    "transaction_history": [
+        {
+            "type": "buy",
+            "symbol": "AAPL",
+            "quantity": 1,
+            "price": 549.9392043959708,
+            "timestamp": "2024-12-07T15:56:17.392079"
+        },
+        {
+            "type": "buy",
+            "symbol": "GOOGL",
+            "quantity": 1,
+            "price": 1110.8748379440224,
+            "timestamp": "2024-12-07T15:56:22.588800"
+        },
+        {
+            "type": "sell",
+            "symbol": "AAPL",
+            "quantity": 1,
+            "price": 257.80550159975746,
+            "timestamp": "2024-12-07T15:56:43.073786"
+        },
+        {
+            "type": "buy",
+            "symbol": "AMZN",
+            "quantity": 6,
+            "price": 1413.3295992878075,
+            "timestamp": "2024-12-07T16:51:42.146689"
+        },
+        {
+            "type": "sell",
+            "symbol": "GOOGL",
+            "quantity": 1,
+            "price": 907.8084321192151,
+            "timestamp": "2024-12-07T16:59:32.984500"
+        },
+        {
+            "type": "sell",
+            "symbol": "AMZN",
+            "quantity": 1,
+            "price": 1123.9498894210935,
+            "timestamp": "2024-12-07T17:04:18.780854"
+        }
+    ]
+}
